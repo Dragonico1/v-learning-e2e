@@ -1,0 +1,18 @@
+# Repositorio de pruebas V-Learning E2E.
+# Solo se versionan los scripts de las pruebas automatizadas y el ejecutable;
+# todo lo demás (docs, evidencias, auditoria, resultados, notas) se queda en local.
+/*
+!/.gitignore
+!/EJECUTAR_PRUEBAS.bat
+!/package.json
+!/package-lock.json
+!/playwright.config.js
+!/.env.example
+!/tests/
+!/pages/
+!/support/
+!/reporters/
+!/scripts/
+
+node_modules/
+*.mp4
